@@ -1,6 +1,6 @@
 {
-  "name": "brolly",
-  "private": true,
+  "name": "thiagobrolly",
+  "version": "0.0.1",
   "devDependencies": {
     "lerna": "^4.0.0"
   }
