@@ -1,6 +1,6 @@
 {
-  "name": "@brolly/aloha-world",
-  "version": "0.0.1",
+  "name": "@ThiagoBrolly/aloha-world",
+  "version": "0.0.2",
   "description": "> TODO: description",
   "author": "Thiago Sousa <thiago.sousa@paylivre.com>",
   "homepage": "https://github.com/ThiagoBrolly/lerna#readme",
@@ -22,5 +22,6 @@
   },
   "bugs": {
     "url": "https://github.com/ThiagoBrolly/lerna/issues"
-  }
+  },
+  "gitHead": "e93b6799dec577fc8b4ab59ec14b8dc453a7dd59"
 }
