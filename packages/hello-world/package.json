@@ -1,6 +1,6 @@
 {
   "name": "@thiagobrolly/hello-world",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "> TODO: description",
   "author": "Thiago Sousa <thiago.sousa@paylivre.com>",
   "homepage": "https://github.com/ThiagoBrolly/lerna#readme",
@@ -23,5 +23,5 @@
   "bugs": {
     "url": "https://github.com/ThiagoBrolly/lerna/issues"
   },
-  "gitHead": "7e266dc608657b9706c8059120c42a5921fd1c49"
+  "gitHead": "ab935de334be011e71b56d9a58b4f4fc3a18279f"
 }
